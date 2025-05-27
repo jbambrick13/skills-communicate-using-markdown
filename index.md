@@ -7,3 +7,8 @@
 ``` python
 statement = "Kevin Durant is the GOAT";
 ```
+
+- [x] Finish project
+- [ ] Finish Mardkown lesson
+- [ ] Add project to Github
+- [ ] Start portfolio
